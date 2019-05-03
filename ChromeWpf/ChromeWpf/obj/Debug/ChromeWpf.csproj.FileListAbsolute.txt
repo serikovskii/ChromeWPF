@@ -1,0 +1,15 @@
+C:\Users\МукушевА.CORP\source\repos\ChromeWpf\ChromeWpf\bin\Debug\ChromeWpf.exe.config
+C:\Users\МукушевА.CORP\source\repos\ChromeWpf\ChromeWpf\bin\Debug\ChromeWpf.exe
+C:\Users\МукушевА.CORP\source\repos\ChromeWpf\ChromeWpf\bin\Debug\ChromeWpf.pdb
+C:\Users\МукушевА.CORP\source\repos\ChromeWpf\ChromeWpf\obj\Debug\ChromeWpf.csprojAssemblyReference.cache
+C:\Users\МукушевА.CORP\source\repos\ChromeWpf\ChromeWpf\obj\Debug\MainWindow.g.cs
+C:\Users\МукушевА.CORP\source\repos\ChromeWpf\ChromeWpf\obj\Debug\App.g.cs
+C:\Users\МукушевА.CORP\source\repos\ChromeWpf\ChromeWpf\obj\Debug\ChromeWpf_MarkupCompile.cache
+C:\Users\МукушевА.CORP\source\repos\ChromeWpf\ChromeWpf\obj\Debug\ChromeWpf_MarkupCompile.lref
+C:\Users\МукушевА.CORP\source\repos\ChromeWpf\ChromeWpf\obj\Debug\MainWindow.baml
+C:\Users\МукушевА.CORP\source\repos\ChromeWpf\ChromeWpf\obj\Debug\ChromeWpf.g.resources
+C:\Users\МукушевА.CORP\source\repos\ChromeWpf\ChromeWpf\obj\Debug\ChromeWpf.Properties.Resources.resources
+C:\Users\МукушевА.CORP\source\repos\ChromeWpf\ChromeWpf\obj\Debug\ChromeWpf.csproj.GenerateResource.cache
+C:\Users\МукушевА.CORP\source\repos\ChromeWpf\ChromeWpf\obj\Debug\ChromeWpf.csproj.CoreCompileInputs.cache
+C:\Users\МукушевА.CORP\source\repos\ChromeWpf\ChromeWpf\obj\Debug\ChromeWpf.exe
+C:\Users\МукушевА.CORP\source\repos\ChromeWpf\ChromeWpf\obj\Debug\ChromeWpf.pdb
